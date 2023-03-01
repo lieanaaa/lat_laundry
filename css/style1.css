@@ -1,0 +1,51 @@
+body {
+    background-color: #e3f3f1;
+}
+
+nav {
+	background-color: #5cafc9 ;
+	padding: 10px;
+	line-height: 10px;
+	text-align:right;
+	top: 0;
+}
+
+nav li {
+	display: inline;
+	text-decoration: none;
+	margin-right: 20px;
+	width: 10px;
+}
+.tombol a {
+    text-decoration: none;
+    width: 100%;
+    color: black;
+    background-color:#5cafc9 ;
+    text-align: center;
+    padding-block: 5px;
+    border-radius: 5px;
+}
+.container {
+    background-color: #bae1ef;
+    min-width: 170px;
+    height: 550px;
+    margin-bottom: 30px; 
+    border-radius: 5px;
+    padding-inline: 20px;
+    justify-items: center;
+}
+
+.tombol {
+    margin-inline: 47px;
+}
+
+.form-check{
+    margin-inline: 47px;
+}
+footer {
+    padding-block: 20px;
+    margin-inline: -81 px;
+    text-align: center;
+	background-color: #5cafc9 ;
+}
+
